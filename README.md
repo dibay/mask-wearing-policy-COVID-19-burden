@@ -4,6 +4,10 @@ To  analyze, and publish the results of COVID-19 dataset on deaths involving cor
 # Source:
 https://catalog.data.gov/dataset/monthly-counts-of-covid-19-deaths-by-region-age-place-and-race-and-hispanic-origin
 
+# Licence:
+
+https://www.usa.gov/government-works
+
 
 # Link to relevant data.gov:
 https://catalog.data.gov/dataset/monthly-counts-of-covid-19-deaths-by-region-age-place-and-race-and-hispanic-origin/resource/6958ca90-e668-48b0-9b85-99580de5c8ee
