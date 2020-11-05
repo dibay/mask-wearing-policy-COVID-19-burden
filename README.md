@@ -9,7 +9,7 @@ https://catalog.data.gov/dataset/monthly-counts-of-covid-19-deaths-by-region-age
 # Link to the data: 
 URL: https://data.cdc.gov/api/views/w4jm-mysj/rows.csv?accessType=DOWNLOAD
 
-# Current submission of jupyter notebook includes the markdown cell of following topics:
+# Current submission of the jupyter notebook includes the markdown cell of following topics:
 - Motivation
 - Dataset
 - Unknown and dependencies
