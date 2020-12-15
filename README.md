@@ -20,7 +20,7 @@ In conclusion the findings from this research support the hypothesis that mask w
 
 <br>
 
-(mask-wearing-policy-COVID-19-burden/new-case-trend.png)
+![](mask-wearing-policy-COVID-19-burden/new-case-trend.png)
 
 <br>
 
