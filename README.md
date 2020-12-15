@@ -1,6 +1,6 @@
 # Abstract:
 **Introduction:** 
-We are living in a critical era as the numbers of the new COVID_19 cases and death due to COVID-19 are increasing worldwide and in the US. So far COVID-19 cases are approximately [73 million worldwide including 16 million cases in the United States](https://coronavirus.jhu.edu/map.html). [Mask wearing as part of the social distancing methods](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/cloth-face-cover-guidance.html) is recommended as to subside the spread of this virus. However, [twelve states in the US have very limited mask wearing requirements and South Dakota has absolutely no requirement](https://masks4all.co/what-states-require-masks/). This project evaluated the effect of mask wearing policy on COVID-19 burden (i.e. new cases and new deaths). The data from two neighbor states (Georgia and Alabama) with different mask wearing policies where considered to minimize the effect of confounding factors (e.g. weather, demographics). Georgia has a very limited policy only for certain employees while Alabama required mask wearing from July 17th.
+We are living in a critical era as the numbers of the new COVID_19 cases and death due to COVID-19 are increasing worldwide and in the US. So far COVID-19 cases are approximately [73 million worldwide including 16 million cases in the United States](https://coronavirus.jhu.edu/map.html). [Mask wearing as part of the social distancing methods](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/cloth-face-cover-guidance.html) is recommended as to subside the spread of this virus. However, [twelve states in the US have very limited mask wearing requirements and South Dakota has absolutely no requirement](https://masks4all.co/what-states-require-masks/). This project evaluated the effect of mask wearing policy on COVID-19 burden (i.e. new cases and new deaths). The data from two neighbor states (Georgia and Alabama) with different mask wearing policies where considered to minimize the effect of confounding factors (e.g. weather, demographics). Geowillrgia has a very limited policy only for certain employees while Alabama required mask wearing from July 17th.
 **Methods:** 
 All the analysis was done on the subset of the data from July 17th to November 11th. The number of new cases and new deaths were normalized to the population in each state and all the statistics and models were run on the normalized data. 
 **Results:** 
@@ -12,7 +12,7 @@ In conclusion the findings from this research support the hypothesis that mask w
 # Source and link to the data:
 https://data.cdc.gov/Case-Surveillance/United-States-COVID-19-Cases-and-Deaths-by-State-o/9mfq-cb36
 
-Some of the variables in this dataset that will be used in this analysis are as follow:
+Some of the variables in this dataset that  were for this analysis are as follow:
 
 |      |Variables   | Description|
 |------|------------|------------|
