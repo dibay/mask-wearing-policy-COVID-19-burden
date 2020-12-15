@@ -44,4 +44,7 @@ In conclusion the findings from this research support the hypothesis that mask w
 ![Graph 1](/new-case-trend.png)
 
 <br>
+
 ![Graph 2](/new-death-trend.png)
+
+<br>
