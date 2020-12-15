@@ -18,6 +18,7 @@ The mean of new daily new cases is higher in Alabama (253.6 daily new cases per 
 In conclusion the findings from this research support the hypothesis that mask wearing policy could be associated with lower number of death but not cases of COVID-19. Even though no causality can be inferred, but results support advocating for mask wearing policies to decrease the burden of COVID-19. 
 
 <br>
+
 ![Graph 1](mask-wearing-policy-COVID-19-burden/new-case-trend.png)
 
 <br>
