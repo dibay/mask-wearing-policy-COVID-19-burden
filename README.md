@@ -8,7 +8,7 @@ https://data.cdc.gov/Case-Surveillance/United-States-COVID-19-Cases-and-Deaths-b
 |------------|------------|
 | state |Jurisdiction|
 | submission date |Date of counts|
-| new_casw |Number of new cases|
+| new_casw |Number of new_case_trend.pngnew cases|
 | new_death| Number of new deaths|
 
 
@@ -41,6 +41,6 @@ In conclusion the findings from this research support the hypothesis that mask w
 
 <br>
 
-![Graph 1](new_case_trend.png)
+![Graph 1](/new-case-trend.png)
 
 <br>
