@@ -4,12 +4,12 @@ https://data.cdc.gov/Case-Surveillance/United-States-COVID-19-Cases-and-Deaths-b
 
 **Some of the variables in this dataset that  were for this analysis are as follow:**
 
-|      |Variables   | Description|
-|------|------------|------------|
-|      | state |Jurisdiction|
-|      | submission date |Date of counts|
-|      | new_casw |Number of new cases|
-|      | new_death| Number of new deaths|
+|Variables   | Description|
+|------------|------------|
+| state |Jurisdiction|
+| submission date |Date of counts|
+| new_casw |Number of new cases|
+| new_death| Number of new deaths|
 
 
 # Licence:
