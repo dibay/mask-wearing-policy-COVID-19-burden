@@ -19,9 +19,10 @@ In conclusion the findings from this research support the hypothesis that mask w
 
 <br>
 
-![Graph 1](dibay/mask-wearing-policy-COVID-19-burden /new-case-trend.png)
+![Graph 1](dibay/mask-wearing-policy-COVID-19-burden/new-case-trend.png)
 
 <br>
+
 # Source and link to the data:
 https://data.cdc.gov/Case-Surveillance/United-States-COVID-19-Cases-and-Deaths-by-State-o/9mfq-cb36
 
