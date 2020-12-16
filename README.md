@@ -1,3 +1,5 @@
+# Goal of this project:
+We are living in a critical era as the numbers of the new COVID_19 cases and death due to COVID-19 are increasing worldwide and in the US. Mask wearing as part of the social distancing measures is recommended as to subside the spread of this virus. However, twelve states in the US have very limited mask wearing requirements and South Dakota has absolutely no requirement. This project tries to evaluate the effect of mask wearing policy on the COVID-19 burden in two neighbor states of Georgia and Alabama which have different mask wearing policies.
 
 # Source and link to the data:
 https://data.cdc.gov/Case-Surveillance/United-States-COVID-19-Cases-and-Deaths-by-State-o/9mfq-cb36
